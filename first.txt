@@ -6,3 +6,4 @@ Gitの練習をしていきます。
 dekiteru
 git status
 git diff
+matadekinakunatta
