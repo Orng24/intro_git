@@ -7,3 +7,4 @@ dekiteru
 git status
 git diff
 matadekinakunatta
+try
